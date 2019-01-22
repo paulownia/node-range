@@ -1,0 +1,6 @@
+{
+	"extends": "plugin:ava/recommended",
+    "plugins": [
+        "ava"
+    ]
+}
