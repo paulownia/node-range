@@ -1,5 +1,5 @@
 {
-  "name": "iterable-range",
+  "name": "@paulownia/range",
   "version": "0.0.1",
   "description": "A range object that implements iterable protocol",
   "main": "index.js",
@@ -13,22 +13,31 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulownia/iterable-range.git"
+    "url": "git+https://github.com/paulownia/range.git"
   },
   "keywords": [
     "range",
     "iterable",
     "iterator"
   ],
-  "author": "",
+  "author": "hisanori <hisary@gmail.com> (https://github.com/paulownia)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paulownia/iterable-range/issues"
+    "url": "https://github.com/paulownia/range/issues"
   },
-  "homepage": "https://github.com/paulownia/iterable-range#readme",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "homepage": "https://github.com/paulownia/range#readme",
   "devDependencies": {
     "ava": "^1.1.0",
     "eslint": "^5.12.1",
     "eslint-plugin-ava": "^5.1.1"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {}
 }
