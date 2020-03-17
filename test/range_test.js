@@ -1,5 +1,5 @@
-import test from 'ava';
-import {range, Range} from '../index.js';
+const test = require('ava');
+const {range, Range} = require('../index.js');
 
 test('create range object', t => {
   const r = range(5);
