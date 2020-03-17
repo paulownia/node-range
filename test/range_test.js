@@ -21,8 +21,8 @@ test('toArray', t => {
 
 test('length', t => {
   const r1 = range(1, 5, 2);
-  t.deepEqual(r1.length, 2);
+  t.is(r1.length, 2);
 
   const r2 = range(1, 6, 2);
-  t.deepEqual(r2.length, 3);
+  t.is(r2.length, 3);
 });
