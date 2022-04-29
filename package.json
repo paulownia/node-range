@@ -1,6 +1,6 @@
 {
   "name": "@paulownia/range",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A range object that implements iterable protocol",
   "main": "index.js",
   "scripts": {
