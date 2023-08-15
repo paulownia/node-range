@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulownia/range.git"
+    "url": "git+https://github.com/paulownia/node-range.git"
   },
   "keywords": [
     "range",
@@ -23,13 +23,13 @@
   "author": "hisanori <hisary@gmail.com> (https://github.com/paulownia)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paulownia/range/issues"
+    "url": "https://github.com/paulownia/node-range/issues"
   },
   "files": [
     "index.js",
     "lib"
   ],
-  "homepage": "https://github.com/paulownia/range#readme",
+  "homepage": "https://github.com/paulownia/node-range#readme",
   "devDependencies": {
     "ava": "^4.2.0",
     "eslint": "^8.14.0",
